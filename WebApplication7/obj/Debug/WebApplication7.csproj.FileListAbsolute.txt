@@ -1,0 +1,66 @@
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\ApplicationInsights.config
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\WebApplication7.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\student\Desktop\44 IT B SE\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\ApplicationInsights.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
